@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c5e8b7-9bd3-40a4-88a9-772e15764cb4" name="Changes" comment="" />
+    <list default="true" id="22c5e8b7-9bd3-40a4-88a9-772e15764cb4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/PatientSignupDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/PatientSignupDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -37,6 +43,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2ZRT6cZTjz9NuBemOSY99lNwYaT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

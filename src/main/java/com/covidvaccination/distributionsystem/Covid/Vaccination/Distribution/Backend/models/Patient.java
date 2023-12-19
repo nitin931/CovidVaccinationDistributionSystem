@@ -20,7 +20,7 @@ public class Patient {
     private String gender;
     private int doseCount;
     @Column(unique = true)
-    private long aadharNumber;
+    private String aadharNumber;
     private String vaccinationPreference;
 
     private String address;
