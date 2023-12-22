@@ -5,28 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22c5e8b7-9bd3-40a4-88a9-772e15764cb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Response/GenralMessageDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Exceptions/PatientDoesNotExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Exceptions/WrongCredentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/controller/PatientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/PatientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/CreateAppointmentDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/PatientLoginDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/PatientSignupDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Response/GenralMessageDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Enums/VaccinationCenterPreference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Enums/VaccinationPreference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Exceptions/PatientDoesNotExistException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Exceptions/WrongCredentials.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/controller/PatientController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/PatientRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/PatientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/PatientSignupDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/Dto/Request/PatientSignupDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/models/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/controller/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/controller/PatientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/DoctorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/DoctorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/VaccinationCenterRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/VaccinationCenterRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/DoctorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/DoctorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/VaccinationCenterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/VaccinationCenterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/controller/PatientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/controller/PatientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/DoctorRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/DoctorRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/PatientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/PatientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/VaccinationCenterRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/repository/VaccinationCenterRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/DoctorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/DoctorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/PatientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/PatientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/VaccinationCenterService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/covidvaccination/distributionsystem/Covid/Vaccination/Distribution/Backend/service/VaccinationCenterService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="usePluginRegistry" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -73,7 +68,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/nitin thakur/Downloads/demo",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.35172415",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RunManager">
@@ -95,5 +93,9 @@
       <updated>1702383718054</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

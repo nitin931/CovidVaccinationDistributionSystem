@@ -2,6 +2,7 @@ package com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.B
 
 import com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.Backend.Dto.Request.PatientLoginDTO;
 import com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.Backend.Dto.Request.PatientSignupDTO;
+import com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.Backend.Dto.Response.AppointmentDTO;
 import com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.Backend.Dto.Response.GenralMessageDTO;
 import com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.Backend.Enums.VaccinationCenterPreference;
 import com.covidvaccination.distributionsystem.Covid.Vaccination.Distribution.Backend.Enums.VaccinationPreference;
@@ -42,7 +43,8 @@ public class PatientController {
 
     @GetMapping("/createAppointment")
     public ResponseEntity createAppointment(@RequestParam String email, @RequestParam VaccinationCenterPreference vaccinationCenterPreference){
-
+        AppointmentDTO appointmentDTO = patientService.createAppointment(email,vaccinationCenterPreference.toString());
+        return new ResponseEntity(appointmentDTO, HttpStatus.OK);
     }
 
 }
